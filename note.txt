@@ -1,0 +1,20 @@
+div = division (untuk mengumpulkan beberapa elemen menjadi 1 grup)
+border = garis luar
+margin = jarak luar
+padding = jarak dalam
+alt = alternative
+<tr> = table row
+<th> = table heading
+<td> = table data
+
+Github Versioning Control Rules
+// Newly use repository
+- git init // menginisialisasi dari lcal git
+- git add. // menambahkan semua folder/file baru kedalam local git
+- git commit -m "your message" // untuk memberikan pesan terhadap folder/file yang kita tambah
+- git remote add remote_name https//remote.link
+- git push remote_name branch_name // untuk mengupload / mem-push folder/file yang sudah ditambahkan
+
+
+//Editing repository
+- git add.
